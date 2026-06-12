@@ -17,8 +17,10 @@ function Navbar() {
         <li><a href="/how-it-works">How It Works</a></li>
         <li><a href="/dashboard">Dashboard</a></li>
         <li><a href="/about">About</a></li>
+        <li><a href="/report">Report Issue </a></li>
+        <li><a href="/social-impact">SocialImpact</a></li>
       </ul>
-
+     
       <a href="/login" className="login-btn">
         Login
       </a>
